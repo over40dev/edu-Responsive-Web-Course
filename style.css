@@ -7,30 +7,30 @@ body {
     margin: 0px;
 }
 
-.nav {
+/* .nav {
     background-color: cadetblue;
     color: white;
-}
+} */
 
-.nav ul {
+/* .nav ul {
     margin: 0px;
     padding: 0px;
     list-style-type: none;
     font-size: 0px;
-}
+} */
 
-.nav ul li {
+/* .nav ul li {
     padding: 16px;
     text-align: center;
     font-size: 1.2rem;
     border-bottom: 1px solid black;
     transition: background-color 0.2s;
-}
+} */
 
-.nav ul li:hover {
+/* .nav ul li:hover {
     background-color:black;
-}
-
+} */
+/* 
 .image-area {
     background-image:url("Images/Background.png");
     background-position: center center;
@@ -84,5 +84,5 @@ body {
     .single-service {
         width: 50%;
         float: left;
-    }
+    } */
 }
